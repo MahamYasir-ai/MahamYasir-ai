@@ -63,63 +63,94 @@ I'm interested in turning ideas into useful software: AI-powered applications, i
 
 <h3>01. Voxora — AI Voice Agent</h3>
 
-An AI voice receptionist with a custom web interface, built using OmniDimension.
+An AI voice receptionist featuring OmniDimension integration, appointment intake, and business FAQ automation.
 
 <a href="https://github.com/MahamYasir-ai/voxora-ai-voice-agent"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF4F9A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://voxora-ai-voice-agent.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF873D?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>02. AI Data Cleaning Assistant</h3>
 
-A Streamlit application for uploading datasets and exploring practical data-cleaning operations.
+A data-cleaning application for inspecting, cleaning, and transforming CSV and Excel datasets.
 
-<a href="https://github.com/MahamYasir-ai/AI_Data_Cleaning_Assistant"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF873D?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/MahamYasir-ai/AI_Data_Cleaning_Assistant"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF4F9A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://ai-data-cleaning-assistant.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF873D?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>03. AI Recruitment Chatbot</h3>
+<h3>03. HirePilot — AI Recruiter</h3>
 
-An AI chatbot project focused on recruitment-related conversations and candidate support.
+An AI-powered recruitment platform featuring a hiring chatbot, job listings, candidate applications, HR dashboard, AI-based screening, and WhatsApp integration.
 
-*Add the repository link when the project is published.*
+<a href="https://github.com/MahamYasir-ai/HirePilot-AI-Recruiter"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF4F9A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://hire-pilot-ai-recruiter.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF873D?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>04. AI-powered E-commerce</h3>
+<h3>04. FlexCare — AI Voice Agent</h3>
 
-An e-commerce project combining AI-assisted development with WhatsApp integration.
+An AI calling assistant for physiotherapy appointment scheduling and patient communication, built with OmniDimension.
 
-*Add the repository link when the final project is published.*
+<a href="https://github.com/MahamYasir-ai/flexcare-ai-calling-assistant"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF4F9A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://flexcare-ai-calling-assistant.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF873D?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
 
-### ✳ Web experiences & creative development
+### ✳ E-commerce & creative web experiences
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>LUNÉA — Luxury Handbags</h3>
+<h3>05. LUNÉA — Luxury Handbags</h3>
 
-A premium e-commerce website concept featuring React, Tailwind CSS, Framer Motion, and Three.js.
+An ultra-premium handbag storefront featuring immersive Three.js visuals, noir-and-gold styling, WhatsApp order dispatch, and private-client concierge services.
 
-<a href="https://github.com/MahamYasir-ai/lunea-luxury-handbags"><img src="https://img.shields.io/badge/EXPLORE-FF4F9A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/MahamYasir-ai/lunea-luxury-handbags"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF4F9A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://lunea-luxury-handbags.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF873D?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>NOOR — Heritage Jewels</h3>
+<h3>06. NOOR — Dubai Heritage Jewels</h3>
 
-A luxury jewellery showcase inspired by Middle Eastern heritage and visual storytelling.
+A luxury jewellery e-commerce experience inspired by Middle Eastern heritage, featuring 21K gold collections, WhatsApp enquiries, and personalized shopping.
 
-<a href="https://github.com/MahamYasir-ai/noor-dubai-heritage-jewels"><img src="https://img.shields.io/badge/EXPLORE-B8F34A?style=flat-square&logo=github&logoColor=302400" /></a>
+<a href="https://github.com/MahamYasir-ai/noor-dubai-heritage-jewels"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF4F9A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://noor-dubai-heritage-jewels.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF873D?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+### ✳ Learning & development
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>Python Learning</h3>
+
+A hands-on repository documenting Python fundamentals, programming practice, and learning exercises.
+
+<a href="https://github.com/MahamYasir-ai/Python_Learning"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-FF4F9A?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Pandas Learning</h3>
+
+Practical exercises covering data analysis, DataFrames, dataset inspection, missing values, filtering, and data manipulation.
+
+<a href="https://github.com/MahamYasir-ai/Pandas_Learning"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-542C70?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>

@@ -4,6 +4,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:FF4F9A,50:FF873D,100:B8F34A&text=Maham%20Yasir&fontColor=542C70&fontSize=58&fontAlignY=42&desc=AI%20ENGINEERING%20%2F%20BUILDING%20IN%20PUBLIC&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
 
+<div align="center">
+  <img src="assets/profile-banner.png" width="100%" alt="AI Engineering — Build, Automate, Innovate">
+</div>
+
 <a href="https://github.com/MahamYasir-ai">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FF4F9A&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Exploring+agents%2C+automation+%26+data;Electronics+Engineering+graduate+turned+AI+builder;Learning+by+building+real+projects" alt="Animated introduction" />
 </a>
